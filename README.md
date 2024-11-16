@@ -1,17 +1,15 @@
-# portfolio
+# Data Scientist 
 
-#Data Scientist 
-
-##Education
+### Education
 Bachlors' Managment Engineering Univeristy of Waterloo
 
-##Projects
+### Projects
 Data Science 
 Data Science 
 Date Eng 
 Data Analysis 
 
-##Work Expirience 
+### Work Expirience 
 Kenna 
 Ontario Government 
 Sunlife 
