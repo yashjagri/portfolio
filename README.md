@@ -4,9 +4,9 @@
 **Management Engineering, BASc. at the University of Waterloo**
 
 ### Projects
+*   Customer Churn Classification Model for Subscription Services
 *   Data Science 
-*   Data Science 
-*   Date Eng 
+*   Distributed Data Pipeline for Real-Time Analytics 
 *   Data Analysis 
 
 ### Work Expirience 
