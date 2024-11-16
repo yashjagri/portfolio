@@ -1,7 +1,7 @@
 # Data Scientist 
 
 ### Education
-Management Engineering, BASc. at the University of Waterloo
+**Management Engineering, BASc. at the University of Waterloo**
 
 ### Projects
 *   Data Science 
