@@ -7,7 +7,10 @@
 *   Customer Churn Classification Model for Subscription Services
 *   Data Science 
 *   Distributed Data Pipeline for Real-Time Analytics 
-*   Data Analysis 
+*   Data Analysis
+*   Computer Vision Model
+Developed a computer vision model using Python and Roboflow to achieve 1st place in the Toyota Innovation Challenge. Preprocessed image data using Python by applying adaptive equalization and tripling the dataset through data augmentation
+• Trained Ultralytics’ YOLOv8 model on Roboflow, leveraging transfer learning for efficient training
 
 ### Work Expirience 
 
