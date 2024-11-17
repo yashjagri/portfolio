@@ -8,9 +8,8 @@
 *   Data Science 
 *   Distributed Data Pipeline for Real-Time Analytics 
 *   Data Analysis
-*   Computer Vision Model
-Developed a computer vision model using Python and Roboflow to achieve 1st place in the Toyota Innovation Challenge. Preprocessed image data using Python by applying adaptive equalization and tripling the dataset through data augmentation
-• Trained Ultralytics’ YOLOv8 model on Roboflow, leveraging transfer learning for efficient training
+###  Computer Vision Model
+Developed a computer vision model using Python and Roboflow to win 1st place in the Toyota Innovation Challenge. Preprocessed image data with adaptive equalization and data augmentation, tripling the dataset. Trained Ultralytics’ YOLOv8 model using transfer learning for efficient and accurate results.
 
 ## Work Expirience 
 
