@@ -8,7 +8,7 @@
 *   Data Science 
 *   Distributed Data Pipeline for Real-Time Analytics 
 *   Data Analysis
-### [Computer Vision Model] (https://github.com/leo-cf-tian/toyota-innovation-challenge)
+### [Computer Vision Model](https://github.com/leo-cf-tian/toyota-innovation-challenge)
 Developed a computer vision model using Python and Roboflow to win 1st place in the Toyota Innovation Challenge. Preprocessed image data with adaptive equalization and data augmentation, tripling the dataset. Trained Ultralytics’ YOLOv8 model using transfer learning for efficient and accurate results.
 
 ## Work Expirience 
