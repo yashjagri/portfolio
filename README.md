@@ -12,7 +12,7 @@ Developed a computer vision model using Python and Roboflow to win **1st place i
 
 ![Confusion Matrix](https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png)
 
-### [Customer Churn Classification Model for Subscription Services] (https://github.com/yashjagri/churn_model/tree/main)
+### [Customer Churn Classification Model for Subscription Services](https://github.com/yashjagri/churn_model/tree/main)
 Developed a deep learning model to predict customer churn in the telecom sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
 
 *   Data Science 
