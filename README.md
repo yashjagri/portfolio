@@ -9,13 +9,13 @@
 Developed a computer vision model using Python and Roboflow to win **1st place in the Toyota Innovation Challenge**. Preprocessed image data with adaptive equalization and data augmentation, tripling the dataset. Trained Ultralytics’ YOLOv8 model using transfer learning for efficient and accurate results.
 
 <img src="https://github.com/yashjagri/portfolio/blob/main/images/thresholding.png" alt="Thresholding" width="300" />
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png" alt="Confusion Matrix" width="300" />
+<img src="https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png" alt="Confusion Matrix" width="100" />
 
 
 ### [Customer Churn Classification Model for Subscription Services](https://github.com/yashjagri/churn_model/tree/main)
 Developed a deep learning model to predict customer churn in the telecom sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
 
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
+<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="400" />
 
 *   Data Science 
 *   Distributed Data Pipeline for Real-Time Analytics 
