@@ -11,6 +11,8 @@
 ### [Computer Vision Model](https://github.com/leo-cf-tian/toyota-innovation-challenge)
 Developed a computer vision model using Python and Roboflow to win **1st place in the Toyota Innovation Challenge**. Preprocessed image data with adaptive equalization and data augmentation, tripling the dataset. Trained Ultralytics’ YOLOv8 model using transfer learning for efficient and accurate results.
 
+![pic 1](
+
 ## Work Expirience 
 
 ### Data Engineer @ Kenna (Janurary 2024 - April 2024, September 2024 - Present)
