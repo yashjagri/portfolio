@@ -12,7 +12,7 @@ Developed a computer vision model using Python and Roboflow to win **1st place i
   <img src="https://github.com/yashjagri/portfolio/blob/main/images/thresholding.png" width="300" />
 
   
-  <img src="https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png" width="300" /> 
+  <img src="images/result.png" width="300" /> 
 </p>
 
 
