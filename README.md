@@ -8,20 +8,18 @@
 ### [Computer Vision Model](https://github.com/leo-cf-tian/toyota-innovation-challenge)
 Developed a computer vision model using Python and Roboflow to win **1st place in the Toyota Innovation Challenge**. Preprocessed image data with adaptive equalization and data augmentation, tripling the dataset. Trained Ultralytics’ YOLOv8 model using transfer learning for efficient and accurate results.
 
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/thresholding.png" alt="Thresholding" width="300" />
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png" alt="Confusion Matrix" width="100" />
-
 <p float="left">
   <img src="https://github.com/yashjagri/portfolio/blob/main/images/thresholding.png" width="300" />
+
+  
   <img src="https://github.com/yashjagri/portfolio/blob/main/images/confusion_matrix.png" width="300" /> 
-  <img src="/img3.png" width="100" />
 </p>
 
 
 ### [Bank Customer Churn Classification Model](https://github.com/yashjagri/bank_churn_model)
 Developed a deep learning model to predict customer churn in the telecom sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
 
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="400" />
+<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
 
 *   Data Science 
 *   Distributed Data Pipeline for Real-Time Analytics 
