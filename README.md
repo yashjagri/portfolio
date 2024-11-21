@@ -17,7 +17,7 @@ Developed a computer vision model using Python and Roboflow to win **1st place i
 
 
 ### [Bank Customer Churn Classification Model](https://github.com/yashjagri/bank_churn_model)
-Developed a deep learning model to predict customer churn in the telecom sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
+Developed a deep learning model to predict customer churn in the banking sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
 
 <img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
 
