@@ -15,7 +15,6 @@ Developed a computer vision model using Python and Roboflow to win **1st place i
   <img src="images/result.png" width="300" /> 
 </p>
 
-
 ### [Bank Customer Churn Classification Model](https://github.com/yashjagri/bank_churn_model)
 Developed a deep learning model to predict customer churn in the banking sector, identifying factors contributing to customer attrition. Leveraged metrics such as precision, recall, and F1-score to evaluate model performance, ensuring actionable insights for retention strategies.
 
@@ -24,7 +23,7 @@ Developed a deep learning model to predict customer churn in the banking sector,
 ### [LSTM Climate Forecasting Model](https://github.com/yashjagri/LSTM-Climate-Forecasting-Model/tree/main)
 This project uses an LSTM (Long Short-Term Memory) neural network to predict future climate data, such as temperature, rainfall, or other environmental metrics, based on historical time-series data.
 
-<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
+<img src="https://github.com/yashjagri/portfolio/blob/main/images/temp_model.png" alt="Climate Forecasting Model Results" width="300" />
 
 ## Work Expirience 
 
