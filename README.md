@@ -21,10 +21,11 @@ Developed a deep learning model to predict customer churn in the banking sector,
 
 <img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
 
-*   Data Science 
-*   Distributed Data Pipeline for Real-Time Analytics 
-*   Data Analysis
-  
+### [LSTM Climate Forecasting Model](https://github.com/yashjagri/LSTM-Climate-Forecasting-Model/tree/main)
+This project uses an LSTM (Long Short-Term Memory) neural network to predict future climate data, such as temperature, rainfall, or other environmental metrics, based on historical time-series data.
+
+<img src="https://github.com/yashjagri/portfolio/blob/main/images/prediction_matrix.png" alt="Prediction Matrix" width="300" />
+
 ## Work Expirience 
 
 ### Data Engineer @ Kenna (Janurary 2024 - April 2024, September 2024 - Present)
