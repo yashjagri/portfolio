@@ -1,2 +1,5 @@
 title: Yash Jagirdar
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
+include: 
+  - assets/css/custom.css
+
