@@ -1,4 +1,4 @@
-# Data Scientist 
+# Aspiring Data Engineer and Data Scientist 
 
 ## Education
 **Management Engineering, BASc. at the University of Waterloo**
